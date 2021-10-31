@@ -11,7 +11,7 @@ Note: I'm not the author of this study. I conducted data ingestion and analysis 
 ## File Contents
 - step1 is getting the post and ppl's comment and reactions(like, heart, angry...) from Facebook fanpages.  
 - step2 is aggregating the raw texts into posts
-- step3 apply word segmentation on the corpus(This is an important step fore NLP on Chinese text mining)
+- step3 apply word segmentation on the corpus(This is an important step for NLP in Chinese text mining)
 - Other notebooks are several analysis such as LDA, assoication rules, word cloud and sentiment analysis based on the feature extracted
 
 ## Requirements
