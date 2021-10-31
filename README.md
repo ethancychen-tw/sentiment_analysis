@@ -2,7 +2,7 @@
 
 To know about how ppl response to the policy of Triple Stimulus Voucher, we get interaction data from main media's Facebook fanpages. Several insights were found through the analysis.
 
-## Study
+## Thesis
 For the study, see [HSU, YING-CHIEH, "Public Opinion Analysis of Taiwan 2020 Triple Stimulus Voucher–a Case Study of Facebook News Datafrom Mainstream Media"(2021)](https://hdl.handle.net/11296/ea768j)
 
 Note: I'm not the author of this study. I conducted data ingestion and analysis only.
